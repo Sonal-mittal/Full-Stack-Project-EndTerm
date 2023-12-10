@@ -1,1 +1,1 @@
-<h1 align="center">Todo React App By Divyanshu Khandelwal  📝</h1>  
+<h1 align="center">Todo React App By Sonal Mittal  📝</h1>  
